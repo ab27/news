@@ -1,9 +1,6 @@
-Comments
-========
-when a comment is clicked MainActivity gets notified because it
-implements the ArticleCallbacks interface... which has a method
-onArticleCommentsClicked
+Tech News App
+=============
 
-to call the interface implemented by MainActivity HNfragment and
-RedditFragment must setup the callback onAttach 
-# news
+An android app that displays tech news collected from the Hacker News, Reddit APIs. News articles an be saved to be viewed at a later time.
+
+
