@@ -9,3 +9,4 @@ An android app that displays tech news collected from the Hacker News, Reddit AP
 ![alt tag](https://raw.github.com/ab27/news/master/screenshot2.png)
 ![alt tag](https://raw.github.com/ab27/news/master/screenshot3.png)
 ![alt tag](https://raw.github.com/ab27/news/master/screenshot4.png)
+![alt tag](https://raw.github.com/ab27/news/master/screenshot5.png)
