@@ -10,5 +10,5 @@ An android app that displays tech news collected from the Hacker News, Reddit AP
 ![alt tag](https://raw.github.com/ab27/news/master/screenshot3.png)
 ![alt tag](https://raw.github.com/ab27/news/master/screenshot4.png)  
 
-##### Comments section for a reddit article:  
-![alt tag](https://raw.github.com/ab27/news/master/screenshot5.png)
+##### Comments section for a reddit article:
+<img src="https://raw.github.com/ab27/news/master/screenshot5.png" width="300"/>  
